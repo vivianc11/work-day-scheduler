@@ -32,7 +32,9 @@ The following requirements had to be met for this project:
 - Saving and retrieving content from localStorage
 
 ## Deployed Application
+https://vivianc11.github.io/work-day-scheduler/
 
+![image of work day scheduler](./Assets/Screen%20Shot%202022-09-09%20at%203.35.27%20PM.png)
 
 ### References
 https://heroic-cupcake-9c46a0.netlify.app/
